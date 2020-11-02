@@ -4,4 +4,7 @@ The OS memory manager coordinates the use of these different types of memory by 
 which will be allocated or de-allocated, and how data is transferred between them. This activity, commonly referred to as virtual memory management,
 increases the amount of memory available to each process by making disk storage appear like main memory.
 A second function of the operating system is process management, 
-Every program that runs on a computer - in the background or foreground - is a process. Usually only one process can be performed per CPU at a time. However, many processes can be multi-tasking that require a very fast switching processes. The operating system makes this kind of multitasking possible.
+Every program that runs on a computer - in the background or foreground - is a process. 
+Usually only one process can be performed per CPU at a time. 
+However, many processes can be multi-tasking that require a very fast switching processes.
+The operating system makes this kind of multitasking possible.
